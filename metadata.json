@@ -1,0 +1,6 @@
+{
+  "name": "Trà Sữa Mộc",
+  "description": "Hệ sinh thái đặt trà sữa thủ công trực tuyến — thực đơn tùy chỉnh hương vị và giỏ hàng thanh toán tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
